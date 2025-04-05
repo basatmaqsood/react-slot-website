@@ -40,7 +40,7 @@ const Features = () => {
     <section className="py-20 bg-gray-50 dark:bg-gray-800">
       <div className="max-w-screen-xl mx-auto px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-gray-800">
+          <h2 className="text-2xl sm:text-3xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-gray-800">
             <SlotTextCharacters text="Powerful Features" duration={1000} delay={50} easing="bounce" loop={true} />
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
