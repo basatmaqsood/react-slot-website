@@ -1,7 +1,6 @@
 "use client"
 import { ToastContainer } from "react-toastify"
 import "react-toastify/dist/ReactToastify.css"
-import ThemeToggle from "./components/ThemeToggle"
 import Hero from "./components/Hero"
 import Installation from "./components/Installation"
 import Features from "./components/Features"
@@ -10,7 +9,6 @@ import Examples from "./components/Examples"
 import Footer from "./components/Footer"
 import { Github } from "lucide-react"
 import { FaNpm } from "react-icons/fa"
-import { DiNpm } from "react-icons/di"
 
 export default function App() {
   return (
